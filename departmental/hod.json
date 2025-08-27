@@ -1,0 +1,74 @@
+{
+    "Heads of Departments": [
+        {
+            "name": "Dr. Anoop Kumar Gupta",
+            "department": "Chemical and Biochemical Engineering",
+            "email": "cbe_head@iitp.ac.in",
+            "phone": "8762",
+            "photo": "/images/photo/Anoop%20Kumar%20Gupta.jpg"
+        },
+        {
+            "name": "Dr. Ranganathan Subramanian",
+            "department": "Chemistry",
+            "email": "chem_head@iitp.ac.in",
+            "phone": "8094",
+            "photo": "/images/photo/Ranganathan.jpg"
+        },
+        {
+            "name": "Dr. Amit Kumar Verma",
+            "department": "Civil and Environmental Engineering",
+            "email": "cee_head@iitp.ac.in",
+            "phone": "",
+            "photo": "/images/photo/akv.jpg"
+        },
+        {
+            "name": "Prof. Rajiv Misra",
+            "department": "Department of Computer Science & Engineering",
+            "email": "cse_head@iitp.ac.in",
+            "phone": "8329, 8034",
+            "photo": "/images/Rajiv.jpg"
+        },
+        {
+            "name": "Dr. S. Sivasubramani",
+            "department": "Electrical Engineering",
+            "email": "ee_head@iitp.ac.in",
+            "phone": "8137",
+            "photo": "/images/photo/Sivasubramani.jpg"
+        },
+        {
+            "name": "Dr. Sweta Sinha",
+            "department": "Humanities and Social Sciences",
+            "email": "hss_head@iitp.ac.in",
+            "phone": "8397",
+            "photo": "/images/photo/Sweta_sinha.jpg"
+        },
+        {
+            "name": "Dr. Tamoghna Chakrabarti",
+            "department": "Metallurgical and Materials Engineering",
+            "email": "mme_head@iitp.ac.in",
+            "phone": "8211, 8745",
+            "photo": "/images/photo/tamoghna2.jpg"
+        },
+        {
+            "name": "Dr. Yogesh Mani Tripathi",
+            "department": "Mathematics",
+            "email": "math_head@iitp.ac.in",
+            "phone": "8015",
+            "photo": "/images/photo/Yogesh.jpg"
+        },
+        {
+            "name": "Dr. Anirban Bhattacharya",
+            "department": "Mechanical Engineering",
+            "email": "me_head@iitp.ac.in",
+            "phone": "8117",
+            "photo": "/images/photo/abhatta.jpg"
+        },
+        {
+            "name": "Dr. Raghavan K Easwaran",
+            "department": "Physics",
+            "email": "phy_head@iitp.ac.in",
+            "phone": "8029",
+            "photo": "/images/pdf/raghavan.png"
+        }
+    ]
+}

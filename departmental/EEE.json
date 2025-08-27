@@ -1,0 +1,282 @@
+{
+    "department_name": "EE",
+    "faculty": [
+        {
+            "Name": "Ahmad Ali",
+            "Designation": "Associate Professor",
+            "Phone extension": "8044",
+            "E-mail ID": "ali",
+            "Phone": "06115-233 8044",
+            "Email": "ali@iitp.ac.in"
+        },
+        {
+            "Name": "Kailash Chandara Ray",
+            "Designation": "Associate Professor",
+            "Phone extension": "8106",
+            "E-mail ID": "kcr",
+            "Phone": "06115-233 8106",
+            "Email": "kcr@iitp.ac.in"
+        },
+        {
+            "Name": "Maheshkumar H. Kolekar",
+            "Designation": "Associate Professor",
+            "Phone extension": "8043",
+            "E-mail ID": "mahesh",
+            "Phone": "06115-233 8043",
+            "Email": "mahesh@iitp.ac.in"
+        },
+        {
+            "Name": "Preetam Kumar",
+            "Designation": "Professor",
+            "Phone extension": "8048",
+            "E-mail ID": "pkumar",
+            "Phone": "06115-233 8048",
+            "Email": "pkumar@iitp.ac.in"
+        },
+        {
+            "Name": "Ranjan Kumar Behera",
+            "Designation": "Associate Professor",
+            "Phone extension": "8050",
+            "E-mail ID": "rkb",
+            "Phone": "06115-233 8050",
+            "Email": "rkb@iitp.ac.in"
+        },
+        {
+            "Name": "Rajib Kumar Jha",
+            "Designation": "Associate Professor",
+            "Phone extension": "8010",
+            "E-mail ID": "jharajib",
+            "Phone": "06115-233 8010",
+            "Email": "jharajib@iitp.ac.in"
+        },
+        {
+            "Name": "Sanjoy Kumar Parida",
+            "Designation": "Associate Professor",
+            "Phone extension": "8040",
+            "E-mail ID": "skparida",
+            "Phone": "06115-233 8040",
+            "Email": "skparida@iitp.ac.in"
+        },
+        {
+            "Name": "Shovan Bhaumik",
+            "Designation": "Associate Professor",
+            "Phone extension": "8049",
+            "E-mail ID": "shovan.bhaumik",
+            "Phone": "06115-233 8049",
+            "Email": "shovan.bhaumik@iitp.ac.in"
+        },
+        {
+            "Name": "Sumanta Gupta",
+            "Designation": "Associate Professor",
+            "Phone extension": "8096",
+            "E-mail ID": "sumanta",
+            "Phone": "06115-233 8096",
+            "Email": "sumanta@iitp.ac.in"
+        },
+        {
+            "Name": "S. Sivasubramani",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8137",
+            "E-mail ID": "siva",
+            "Phone": "06115-233 8137",
+            "Email": "siva@iitp.ac.in"
+        },
+        {
+            "Name": "Sudhan Majhi",
+            "Designation": "Associate Professor(Joint Faculty Maths & EE)",
+            "Phone extension": "8045",
+            "E-mail ID": "smajhi",
+            "Phone": "06115-233 8045",
+            "Email": "smajhi@iitp.ac.in"
+        },
+        {
+            "Name": "Yatendra Kumar Singh",
+            "Designation": "Associate Professor",
+            "Phone extension": "8092",
+            "E-mail ID": "yatendra",
+            "Phone": "06115-233 8092",
+            "Email": "yatendra@iitp.ac.in"
+        },
+        {
+            "Name": "Saurabh Kumar Pandey",
+            "Designation": "Associate Professor",
+            "Phone extension": "8246",
+            "E-mail ID": "saurabh",
+            "Phone": "06115-233 8246",
+            "Email": "saurabh@iitp.ac.in"
+        },
+        {
+            "Name": "Pramod Kumar Tiwari",
+            "Designation": "Associate Professor",
+            "Phone extension": "8351",
+            "E-mail ID": "pktiwari",
+            "Phone": "06115-233 8351",
+            "Email": "pktiwari@iitp.ac.in"
+        },
+        {
+            "Name": "Sudhir Kumar",
+            "Designation": "Associate Professor",
+            "Phone extension": "8025",
+            "E-mail ID": "sudhir",
+            "Phone": "06115-233 8025",
+            "Email": "sudhir@iitp.ac.in"
+        }
+    ],
+    "staff": [
+        {
+            "Name": "Iftekhar Ahmad",
+            "Designation": "Junior Technical Superintendant",
+            "Phone extension": "8786",
+            "E-mail ID": "ahmad",
+            "Phone": "06115-233 8786",
+            "Email": "ahmad@iitp.ac.in"
+        },
+        {
+            "Name": "Dhiren Kumar Nayak",
+            "Designation": "Junior Technical Superintendant",
+            "Phone extension": "8150",
+            "E-mail ID": "nayak",
+            "Phone": "06115-233 8150",
+            "Email": "nayak@iitp.ac.in"
+        },
+        {
+            "Name": "Kumar Swapnil",
+            "Designation": "Technical Superintendant",
+            "Phone extension": "8079",
+            "E-mail ID": "swapnil1710",
+            "Phone": "06115-233 8079",
+            "Email": "swapnil1710@iitp.ac.in"
+        },
+        {
+            "Name": "Varun Kumar",
+            "Designation": "Junior Technical Superintendant",
+            "Phone extension": "8649",
+            "E-mail ID": "varun_kr",
+            "Phone": "06115-233 8649",
+            "Email": "varun_kr@iitp.ac.in"
+        },
+        {
+            "Name": "Nawab Ghosh",
+            "Designation": "Mechanic",
+            "Phone extension": "8649",
+            "E-mail ID": "nawabghosh",
+            "Phone": "06115-233 8649",
+            "Email": "nawabghosh@iitp.ac.in"
+        },
+        {
+            "Name": "Shashi Kant Kumar",
+            "Designation": "Junior Technical Superintendant",
+            "Phone extension": "8085",
+            "E-mail ID": "shashi",
+            "Phone": "06115-233 8085",
+            "Email": "shashi@iitp.ac.in"
+        }
+    ],
+    "labs": [
+        {
+            "Laboratory & Offices": "HOD Office",
+            "Phone extension": "8304",
+            "Phone": "06115-233 8304"
+        },
+        {
+            "Laboratory & Offices": "Department Library",
+            "Phone extension": "8305",
+            "Phone": "06115-233 8305"
+        },
+        {
+            "Laboratory & Offices": "Meeting/Conference Room",
+            "Phone extension": "8306",
+            "Phone": "06115-233 8306"
+        },
+        {
+            "Laboratory & Offices": "Department Office",
+            "Phone extension": "8060",
+            "Phone": "06115-233 8060"
+        },
+        {
+            "Laboratory & Offices": "Control & Instrumentation Lab",
+            "Phone extension": "8079",
+            "Phone": "06115-233 8079"
+        },
+        {
+            "Laboratory & Offices": "VLSI Design Lab",
+            "Phone extension": "8085",
+            "Phone": "06115-233 8085"
+        },
+        {
+            "Laboratory & Offices": "B Tech Communication Lab",
+            "Phone extension": "8080",
+            "Phone": "06115-233 8080"
+        },
+        {
+            "Laboratory & Offices": "Digital Signal Processing Lab",
+            "Phone extension": "8031",
+            "Phone": "06115-233 8031"
+        },
+        {
+            "Laboratory & Offices": "Electrical Workshop",
+            "Phone extension": "8151",
+            "Phone": "06115-233 8151"
+        },
+        {
+            "Laboratory & Offices": "Basic Electronics Lab",
+            "Phone extension": "8786",
+            "Phone": "06115-233 8786"
+        },
+        {
+            "Laboratory & Offices": "Adv. Elect. Machine Lab",
+            "Phone extension": "8150",
+            "Phone": "06115-233 8150"
+        },
+        {
+            "Laboratory & Offices": "Ph D. Scholar Room (Electrical)",
+            "Phone extension": "8109",
+            "Phone": "06115-233 8109"
+        },
+        {
+            "Laboratory & Offices": "SMDP Lab",
+            "Phone extension": "8146",
+            "Phone": "06115-233 8146"
+        },
+        {
+            "Laboratory & Offices": "Embedded System Lab",
+            "Phone extension": "8086",
+            "Phone": "06115-233 8086"
+        },
+        {
+            "Laboratory & Offices": "Optical Communication Lab",
+            "Phone extension": "8175",
+            "Phone": "06115-233 8175"
+        },
+        {
+            "Laboratory & Offices": "Optical Network Lab",
+            "Phone extension": "8176",
+            "Phone": "06115-233 8176"
+        },
+        {
+            "Laboratory & Offices": "RF and MEMS Lab",
+            "Phone extension": "8177",
+            "Phone": "06115-233 8177"
+        },
+        {
+            "Laboratory & Offices": "Wireless Communication Research Lab",
+            "Phone extension": "8178",
+            "Phone": "06115-233 8178"
+        },
+        {
+            "Laboratory & Offices": "Analog & Digital Lab",
+            "Phone extension": "8042",
+            "Phone": "06115-233 8042"
+        },
+        {
+            "Laboratory & Offices": "Wireless Communication M Tech Lab",
+            "Phone extension": "8307",
+            "Phone": "06115-233 8307"
+        },
+        {
+            "Laboratory & Offices": "ESDM Lab",
+            "Phone extension": "8353",
+            "Phone": "06115-233 8353"
+        }
+    ]
+}

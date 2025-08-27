@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Prof. T.N. Singh, Director, IIT Patna",
+        "designation": "Director",
+        "email": "director@iitp.ac.in",
+        "phone": "+91-6115-233 001 (Office)",
+        "photo": "/images/photo/tns.jpg"
+    },
+    {
+        "name": "Prof. Awalendra K. Thakur",
+        "designation": "Dean, Administration",
+        "email": "dean_admin@iitp.ac.in",
+        "phone": "8550",
+        "photo": "/images/photo/akt.jpg"
+    },
+    {
+        "name": "Dr. Dinesh Kumar Kotnees",
+        "designation": "Associate Dean, Faculty Affairs",
+        "email": "dean_faculty@iitp.ac.in",
+        "phone": "8290",
+        "photo": "/images/photo/dinesh.png"
+    },
+    {
+        "name": "Dr. Anup Kumar Keshri",
+        "designation": "Associate Dean, Research & Development",
+        "email": "adean_rnd@iitp.ac.in",
+        "phone": "8291",
+        "photo": "/images/photo/Anup.jpg"
+    },
+    {
+        "name": "Dr. Pramod Kumar Tiwari",
+        "designation": "Associate Dean, Students Affairs",
+        "email": "adean_student@iitp.ac.in",
+        "phone": "8351",
+        "photo": "/images/photo/pktiwari.jpg"
+    },
+    {
+        "name": "Dr. Nutan Kumar Tomar",
+        "designation": "Associate Dean, Resource",
+        "email": "adean_resource@iitp.ac.in",
+        "phone": "8659",
+        "photo": "/images/photo/Nutan.jpg"
+    },
+    {
+        "name": "Dr. Sushant Kumar",
+        "designation": "Associate Dean, UG",
+        "email": "adeanacademic_ug@iitp.ac.in",
+        "phone": "8670",
+        "photo": "/images/photo/dr_sushant_kumar.jpg"
+    },
+    {
+        "name": "Dr. Subrata Hait",
+        "designation": "Associate Dean, PG",
+        "email": "adeanacademic_pg@iitp.ac.in",
+        "phone": "8195",
+        "photo": "/images/photo/Dr_Subrata_Hait.jpg"
+    }
+]

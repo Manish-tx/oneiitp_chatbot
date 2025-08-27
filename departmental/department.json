@@ -1,0 +1,34 @@
+{
+  "departments": [
+    {
+      "department_name": "Computer Science and Engineering",
+      "overview": "The Department of Computer Science and Engineering was established in 2008 ...",
+      "courses": [
+        "B.Tech. in Computer Science and Engineering",
+        "B.Tech. in Artificial Intelligence and Data Science",
+        "M.Tech. in Computer Science and Engineering",
+        "M.Tech. in Artificial Intelligence",
+        "Dual Degree (B.Tech. & M.Tech.) in Computer Science and Engineering",
+        "Doctor in Philosophy (Ph.D.)"
+      ],
+      "mission": "The mission of the Department of Computer Science and Engineering is ...",
+      "vision": "Our vision is to be a global leader in computer science ..."
+    },
+    {
+      "department_name": "Electrical Engineering",
+      "hod": {
+        "name": "Dr. S. Sivasubramani",
+        "designation": "Head of the Department"
+      },
+      "courses": [
+        "B.Tech in Electrical and Electronics Engineering",
+        "B.Tech in Electronics and Communication Engineering",
+        "B.Tech + M.Tech in Power & Control",
+        "B.Tech + M.Tech in Signal Processing & Communication Systems",
+        "B.Tech + M.Tech in VLSI & Embedded Systems"
+      ],
+      "overview": "The Department of Electrical Engineering (EE) at IIT Patna was established in 2008 ...",
+      "vision": "The main focus of the department is to deliver an outstanding education ..."
+    }
+  ]
+}
