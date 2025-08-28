@@ -1,0 +1,255 @@
+{
+    "department_name": "CSE",
+    "faculty": [
+        {
+            "Name": "Abyayananda Maiti",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8130",
+            "E-mail ID": "abyaym",
+            "Phone": "06115-233 8130",
+            "Email": "abyaym@iitp.ac.in"
+        },
+        {
+            "Name": "Arijit Mondal",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8161",
+            "E-mail ID": "arijit",
+            "Phone": "06115-233 8161",
+            "Email": "arijit@iitp.ac.in"
+        },
+        {
+            "Name": "Asif Ekbal",
+            "Designation": "Associate Professor",
+            "Phone extension": "8090",
+            "E-mail ID": "asif",
+            "Phone": "06115-233 8090",
+            "Email": "asif@iitp.ac.in"
+        },
+        {
+            "Name": "Joydeep Chandra",
+            "Designation": "Associate Professor",
+            "Phone extension": "8129",
+            "E-mail ID": "joydeep",
+            "Phone": "06115-233 8129",
+            "Email": "joydeep@iitp.ac.in"
+        },
+        {
+            "Name": "Rajiv Misra",
+            "Designation": "Professor",
+            "Phone extension": "8034",
+            "E-mail ID": "rajivm",
+            "Phone": "06115-233 8034",
+            "Email": "rajivm@iitp.ac.in"
+        },
+        {
+            "Name": "Raju Halder",
+            "Designation": "Associate Professor",
+            "Phone extension": "8009",
+            "E-mail ID": "halder",
+            "Phone": "06115-233 8009",
+            "Email": "halder@iitp.ac.in"
+        },
+        {
+            "Name": "Samrat Mondal",
+            "Designation": "Associate Professor",
+            "Phone extension": "8163",
+            "E-mail ID": "samrat",
+            "Phone": "06115-233 8163",
+            "Email": "samrat@iitp.ac.in"
+        },
+        {
+            "Name": "Somanath tripathy",
+            "Designation": "Professor",
+            "Phone extension": "8036",
+            "E-mail ID": "som",
+            "Phone": "06115-233 8036",
+            "Email": "som@iitp.ac.in"
+        },
+        {
+            "Name": "Sriparna Saha",
+            "Designation": "Associate Professor",
+            "Phone extension": "8128",
+            "E-mail ID": "sriparna",
+            "Phone": "06115-233 8128",
+            "Email": "sriparna@iitp.ac.in"
+        },
+        {
+            "Name": "Jimson Mathew",
+            "Designation": "Professor",
+            "Phone extension": "8347",
+            "E-mail ID": "jimson",
+            "Phone": "06115-233 8347",
+            "Email": "jimson@iitp.ac.in"
+        },
+        {
+            "Name": "Suman Kumar Maji",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8346",
+            "E-mail ID": "smaji",
+            "Phone": "06115-233 8346",
+            "Email": "smaji@iitp.ac.in"
+        },
+        {
+            "Name": "Sourav Kumar Dandapat",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8345",
+            "E-mail ID": "sourav",
+            "Phone": "06115-233 8345",
+            "Email": "sourav@iitp.ac.in"
+        },
+        {
+            "Name": "Mayank Agarwal",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8331",
+            "E-mail ID": "mayank265",
+            "Phone": "06115-233 8331",
+            "Email": "mayank265@iitp.ac.in"
+        },
+        {
+            "Name": "Chandranath Adak",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8791",
+            "E-mail ID": "chandranath",
+            "Phone": "06115-233 8791",
+            "Email": "chandranath@iitp.ac.in"
+        },
+        {
+            "Name": "Satendra Kumar",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8332",
+            "E-mail ID": "satendra",
+            "Phone": "06115-233 8332",
+            "Email": "satendra@iitp.ac.in"
+        },
+        {
+            "Name": "Rishav Singh",
+            "Designation": "Assistant Professor",
+            "Phone extension": "8334",
+            "E-mail ID": "rishav.singh",
+            "Phone": "06115-233 8334",
+            "Email": "rishav.singh@iitp.ac.in"
+        }
+    ],
+    "staff": [
+        {
+            "Name": "Abhishekh Dikshit",
+            "Designation": "Technical Superintendent",
+            "Phone extension": "8162",
+            "E-mail ID": "adixit",
+            "Phone": "06115-233 8162",
+            "Email": "adixit@iitp.ac.in"
+        },
+        {
+            "Name": "Anupama Bharti",
+            "Designation": "Junior Technician",
+            "Phone extension": "8333",
+            "E-mail ID": "anupama",
+            "Phone": "06115-233 8333",
+            "Email": "anupama@iitp.ac.in"
+        },
+        {
+            "Name": "Asim Kumar Maiti",
+            "Designation": "Junior Technical Superintendent",
+            "Phone extension": "8344",
+            "E-mail ID": "asim",
+            "Phone": "06115-233 8344",
+            "Email": "asim@iitp.ac.in"
+        },
+        {
+            "Name": "Praveen Kumar Patel",
+            "Designation": "Junior Technical Superintendent",
+            "Phone extension": "8330",
+            "E-mail ID": "praveenk",
+            "Phone": "06115-233 8330",
+            "Email": "praveenk@iitp.ac.in"
+        },
+        {
+            "Name": "Kumar Shanu",
+            "Designation": "Junior Assistant (General Administration)",
+            "Phone extension": "8337",
+            "E-mail ID": "kshanu",
+            "Phone": "06115-233 8337",
+            "Email": "kshanu@iitp.ac.in"
+        }
+    ],
+    "labs": [
+        {
+            "Name": "Conference Room",
+            "Phone extension": "8349",
+            "Room Number": "418",
+            "Phone": "06115-233 8349"
+        },
+        {
+            "Name": "Department Library",
+            "Phone extension": "8335",
+            "Room Number": "425",
+            "Phone": "06115-233 8335"
+        },
+        {
+            "Name": "Department Office",
+            "Phone extension": "8337",
+            "Room Number": "427",
+            "Phone": "06115-233 8337"
+        },
+        {
+            "Name": "Elsevier COE for NLP-1",
+            "Phone extension": "8338",
+            "Room Number": "510",
+            "Phone": "06115-233 8338"
+        },
+        {
+            "Name": "Elsevier COE for NLP-2",
+            "Phone extension": "8339",
+            "Room Number": "510",
+            "Phone": "06115-233 8339"
+        },
+        {
+            "Name": "Faculty Room-1",
+            "Phone extension": "8345",
+            "Room Number": "401",
+            "Phone": "06115-233 8345"
+        },
+        {
+            "Name": "HOD Room",
+            "Phone extension": "8329",
+            "Room Number": "420",
+            "Phone": "06115-233 8329"
+        },
+        {
+            "Name": "Meeting Room",
+            "Phone extension": "8350",
+            "Room Number": "419",
+            "Phone": "06115-233 8350"
+        },
+        {
+            "Name": "MTP-1",
+            "Phone extension": "8331",
+            "Room Number": "422",
+            "Phone": "06115-233 8331"
+        },
+        {
+            "Name": "Ph. D. Lab-1",
+            "Phone extension": "8334",
+            "Room Number": "424",
+            "Phone": "06115-233 8334"
+        },
+        {
+            "Name": "Server Room",
+            "Phone extension": "8336",
+            "Room Number": "426",
+            "Phone": "06115-233 8336"
+        },
+        {
+            "Name": "Software Lab-2",
+            "Phone extension": "8348",
+            "Room Number": "417",
+            "Phone": "06115-233 8348"
+        },
+        {
+            "Name": "Hardware Lab",
+            "Phone extension": "8134",
+            "Room Number": "",
+            "Phone": "06115-233 8134"
+        }
+    ]
+}
